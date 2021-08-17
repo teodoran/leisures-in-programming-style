@@ -1,0 +1,6 @@
+# .NET Core build output
+bin/
+obj/
+
+# VS Code user settings
+.vscode/

@@ -4,4 +4,4 @@ _Playful programming to go along with the book [Exercises in Programming Style](
 
 Index
 -----
-* [LinqBased](LinqBased/README.md)
+* [LinqBased](LinqBased/)
